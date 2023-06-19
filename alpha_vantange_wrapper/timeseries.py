@@ -1,5 +1,3 @@
-import json
-
 from .alpha_vantage_wrapper import AlphaVantage as av
 
 
